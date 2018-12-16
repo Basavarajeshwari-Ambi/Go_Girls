@@ -24,3 +24,9 @@ https://anitab.org/
 
 8.Code First: Girls
 https://www.codefirstgirls.org.uk/
+
+9.Code Like a Girl
+https://codelikeagirl.org/
+
+10.Ada Developers Academy
+ adadevelopersacademy.org

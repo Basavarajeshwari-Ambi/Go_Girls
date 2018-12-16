@@ -29,4 +29,4 @@ https://www.codefirstgirls.org.uk/
 https://codelikeagirl.org/
 
 10.Ada Developers Academy
- adadevelopersacademy.org
+https://adadevelopersacademy.org/

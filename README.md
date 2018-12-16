@@ -18,3 +18,9 @@ https://djangogirls.org/
 
 6.Women Who Go
 https://www.womenwhogo.org/
+
+7.AnitaB.org - Women transform technology
+https://anitab.org/
+
+8.Code First: Girls
+https://www.codefirstgirls.org.uk/

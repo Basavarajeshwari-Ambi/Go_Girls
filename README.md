@@ -35,7 +35,7 @@ https://adadevelopersacademy.org/
 https://hackbrightacademy.com/
 
 12.Skillcrush
-https://skillcrush.com
+https://skillcrush.com/
 
 13. 23 Code Street
 https://www.23codestreet.com/
@@ -43,8 +43,8 @@ https://www.23codestreet.com/
 14.Codebar.io
 https://codebar.io
 
-
-https://
+15.CodeChix
+https://codechix.org/
 
 
 https://

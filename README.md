@@ -55,8 +55,37 @@ https://https://www.momscancode.com/
 18.MotherCoders
 http://www.mothercoders.org/
 
-19.
+19.PyLadies
 
 20.
 
 21.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

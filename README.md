@@ -47,7 +47,7 @@ https://codebar.io
 https://codechix.org/
 
 16.Girl Develop It (GDI)
-https://
+https://girldevelopit.com/
 
 
 https://

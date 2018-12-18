@@ -58,7 +58,8 @@ http://www.mothercoders.org/
 19.PyLadies
 http://www.pyladies.com/
 
-20.
+20.Rails Girls
+railsgirls.com
 
 21.
 

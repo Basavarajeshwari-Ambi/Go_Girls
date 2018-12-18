@@ -62,7 +62,7 @@ http://www.pyladies.com/
 railsgirls.com
 
 21.RailsBridge
-railsbridge.org
+https://railsbridge.org/
 
 #Under 18 Girls Only
 
@@ -70,7 +70,7 @@ railsbridge.org
 https://www.idtech.com/alexa-cafe
 
 23.App Camp For Girls
-appcamp4girls.com
+
 
 
 

@@ -59,7 +59,7 @@ http://www.mothercoders.org/
 http://www.pyladies.com/
 
 20.Rails Girls
-railsgirls.com
+https://railsgirls.com/
 
 21.RailsBridge
 https://railsbridge.org/

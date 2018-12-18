@@ -64,7 +64,7 @@ https://railsgirls.com/
 21.RailsBridge
 https://railsbridge.org/
 
-#Under 18 Girls Only
+Under 18 Girls Only
 
 22.Alexa Café
 https://www.idtech.com/alexa-cafe/

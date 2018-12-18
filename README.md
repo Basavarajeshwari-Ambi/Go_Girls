@@ -67,10 +67,10 @@ https://railsbridge.org/
 #Under 18 Girls Only
 
 22.Alexa Café
-https://www.idtech.com/alexa-cafe
+https://www.idtech.com/alexa-cafe/
 
 23.App Camp For Girls
-appcamp4girls.com
+https://appcamp4girls.com/
 
 
 

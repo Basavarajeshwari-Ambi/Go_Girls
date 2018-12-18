@@ -13,7 +13,7 @@ https://girlswhocode.com/
 4.Django Girls
 https://djangogirls.org/
 
-5.Ladies Who Code
+5.Ladies Learning Code
 
 
 6.Women Who Go

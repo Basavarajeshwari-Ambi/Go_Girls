@@ -14,7 +14,7 @@ https://girlswhocode.com/
 https://djangogirls.org/
 
 5.Ladies Learning Code
-
+https://ladieslearningcode.com/
 
 6.Women Who Go
 https://www.womenwhogo.org/

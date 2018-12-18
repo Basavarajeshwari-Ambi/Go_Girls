@@ -37,7 +37,7 @@ https://hackbrightacademy.com/
 12.Skillcrush
 https://skillcrush.com/
 
-13. 23 Code Street
+13.23 Code Street
 https://www.23codestreet.com/
 
 14.Codebar.io
@@ -46,7 +46,7 @@ https://codebar.io
 15.CodeChix
 https://codechix.org/
 
-
+16.Girl Develop It (GDI)
 https://
 
 

@@ -76,6 +76,7 @@ https://appcamp4girls.com/
 blackgirlscode.com
 
 25.Girls Learning Code
+ladieslearningcode.com/program/girls-learning-code/
 
 
 

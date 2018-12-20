@@ -73,7 +73,7 @@ https://www.idtech.com/alexa-cafe/
 https://appcamp4girls.com/
 
 24.Black Girls Code
-blackgirlscode.com
+https://blackgirlscode.com
 
 25.Girls Learning Code
 ladieslearningcode.com/program/girls-learning-code/

@@ -78,7 +78,8 @@ blackgirlscode.com
 25.Girls Learning Code
 ladieslearningcode.com/program/girls-learning-code/
 
-26.TechGirlz
+26.TechGirlztechgirlz.org
+techgirlz.org
 
 
 

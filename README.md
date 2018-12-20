@@ -79,7 +79,7 @@ https://blackgirlscode.com/
 https://ladieslearningcode.com/program/girls-learning-code/
 
 26.TechGirlztechgirlz.org
-https://techgirlz.org
+https://techgirlz.org/
 
 
 

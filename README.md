@@ -76,7 +76,7 @@ https://appcamp4girls.com/
 https://blackgirlscode.com
 
 25.Girls Learning Code
-ladieslearningcode.com/program/girls-learning-code/
+https://ladieslearningcode.com/program/girls-learning-code/
 
 26.TechGirlztechgirlz.org
 techgirlz.org

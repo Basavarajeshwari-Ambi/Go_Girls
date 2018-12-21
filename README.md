@@ -1,5 +1,5 @@
 # Go_Girls
-Opportunities for girls who are intrsted in coding.
+Opportunities for girls who are intersted in coding.
 Below are the platforms that encourage girls to grow more in tech.
 
 1.Women Tech Makers

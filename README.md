@@ -1,5 +1,6 @@
 # Go_Girls
 Opportunities for girls who are intrsted in coding.
+Below are the platforms that encourage girls to grow more in tech.
 
 1.Women Tech Makers
 https://www.womentechmakers.com/
@@ -7,20 +8,20 @@ https://www.womentechmakers.com/
 2.Women Who Code
 https://www.womenwhocode.com/
 
-3.Girls Who Code
-https://girlswhocode.com/
-
-4.Django Girls
+3.Django Girls
 https://djangogirls.org/
+
+4.Women Who Go
+https://www.womenwhogo.org/
 
 5.Ladies Learning Code
 https://ladieslearningcode.com/
 
-6.Women Who Go
-https://www.womenwhogo.org/
-
-7.AnitaB.org - Women transform technology
+6.AnitaB.org - Women transform technology
 https://anitab.org/
+
+7.Girl Develop It (GDI)
+https://girldevelopit.com/
 
 8.Code First: Girls
 https://www.codefirstgirls.org.uk/
@@ -46,25 +47,27 @@ https://codebar.io
 15.CodeChix
 https://codechix.org/
 
-16.Girl Develop It (GDI)
-https://girldevelopit.com/
-
-17.Moms Can: CODE
-https://https://www.momscancode.com/
-
-18.MotherCoders
-http://www.mothercoders.org/
-
-19.PyLadies
+16.PyLadies
 http://www.pyladies.com/
 
-20.Rails Girls
+17.Rails Girls
 https://railsgirls.com/
 
-21.RailsBridge
+18.RailsBridge
 https://railsbridge.org/
 
-Under 18 Girls Only
+Platforms for Mothers 
+
+19.Moms Can: CODE
+https://https://www.momscancode.com/
+
+20.MotherCoders
+http://www.mothercoders.org/
+
+Platforms for under 18
+
+21.Girls Who Code
+https://girlswhocode.com/
 
 22.Alexa Café
 https://www.idtech.com/alexa-cafe/

@@ -81,11 +81,17 @@ https://blackgirlscode.com/
 25.Girls Learning Code
 https://ladieslearningcode.com/program/girls-learning-code/
 
-26.TechGirlztechgirlz.org
+27.TechGirlztechgirlz.org
 https://techgirlz.org/
 
+Tech Ladies
+https://new.hiretechladies.com/join/
 
+Linux Chix
+https://www.linuxchix.org/
 
+Lesbians Who Tech
+https://lesbianswhotech.org/sanfrancisco2019/
 
 
 

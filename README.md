@@ -93,6 +93,7 @@ https://www.linuxchix.org/
 Lesbians Who Tech
 https://lesbianswhotech.org/sanfrancisco2019/
 
+astia
 http://astia.org/
 
 

@@ -22,8 +22,7 @@ Below are the platforms that encourage girls to grow more in tech.
 
 7. [Girl Develop It (GDI)](https://girldevelopit.com)
 
-8.Code First: Girls
-https://www.codefirstgirls.org.uk/
+8. [Code First: Girls](https://www.codefirstgirls.org.uk)
 
 9.Code Like a Girl
 https://codelikeagirl.org/

@@ -11,11 +11,11 @@ Below are the platforms that encourage girls to grow more in tech.
 
 1. [Women Tech Makers](https://www.womentechmakers.com)
 
-2. [Women Who Code] (https://www.womenwhocode.com)
+2. [Women Who Code](https://www.womenwhocode.com)
 
-3. [Django Girls] (https://djangogirls.org)
+3. [Django Girls](https://djangogirls.org)
 
-4. [Women Who Go] (https://www.womenwhogo.org)
+4. [Women Who Go](https://www.womenwhogo.org)
 
 5.Ladies Learning Code
 https://ladieslearningcode.com/

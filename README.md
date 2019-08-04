@@ -5,7 +5,6 @@ Intersectionality of women in tech means a lot. So there are various platforms t
 3. Moms
 4. Lesbians
 
-# Go_Girls
 Opportunities for girls who are intersted in coding.
 Below are the platforms that encourage girls to grow more in tech.
 
@@ -17,11 +16,9 @@ Below are the platforms that encourage girls to grow more in tech.
 
 4. [Women Who Go](https://www.womenwhogo.org)
 
-5.Ladies Learning Code
-https://ladieslearningcode.com/
+5. [Ladies Learning Code](https://ladieslearningcode.com)
 
-6.AnitaB.org - Women transform technology
-https://anitab.org/
+6. [AnitaB.org - Women transform technology](https://anitab.org)
 
 7.Girl Develop It (GDI)
 https://girldevelopit.com/

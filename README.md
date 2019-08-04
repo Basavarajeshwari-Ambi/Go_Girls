@@ -20,8 +20,7 @@ Below are the platforms that encourage girls to grow more in tech.
 
 6. [AnitaB.org - Women transform technology](https://anitab.org)
 
-7.Girl Develop It (GDI)
-https://girldevelopit.com/
+7. [Girl Develop It (GDI)](https://girldevelopit.com)
 
 8.Code First: Girls
 https://www.codefirstgirls.org.uk/

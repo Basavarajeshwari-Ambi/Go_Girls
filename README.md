@@ -32,25 +32,19 @@ Below are the platforms that encourage girls to grow more in tech.
 
 12. [Skillcrush]9https://skillcrush.com/)
 
-13.23 Code Street
-https://www.23codestreet.com/
+13. [23 Code Street](https://www.23codestreet.com)
 
-14.Codebar.io
-https://codebar.io
+14. [Codebar.io](https://codebar.io)
 
-15.CodeChix
-https://codechix.org/
+15. [CodeChix](https://codechix.org)
 
-16.PyLadies
-http://www.pyladies.com/
+16. [PyLadies](http://www.pyladies.com)
 
-17.Rails Girls
-https://railsgirls.com/
+17. [Rails Girls](https://railsgirls.com)
 
-18.RailsBridge
-https://railsbridge.org/
+18. [RailsBridge](https://railsbridge.org)
 
-Platforms for Mothers 
+###Platforms for Mothers 
 
 19.Moms Can: CODE
 https://https://www.momscancode.com/
@@ -58,10 +52,9 @@ https://https://www.momscancode.com/
 20.MotherCoders
 http://www.mothercoders.org/
 
-Platforms for under 18
+###Platforms for under 18
 
-21.Girls Who Code
-https://girlswhocode.com/
+21. [Girls Who Code](https://girlswhocode.com)
 
 22.Alexa Café
 https://www.idtech.com/alexa-cafe/

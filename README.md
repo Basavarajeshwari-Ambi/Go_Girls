@@ -68,8 +68,7 @@ https://blackgirlscode.com/
 25.Girls Learning Code
 https://ladieslearningcode.com/program/girls-learning-code/
 
-27.TechGirlztechgirlz.org
-https://techgirlz.org/
+27. [TechGirlztechgirlz.org](https://techgirlz.org)
 
 28.Tech Ladies
 https://new.hiretechladies.com/join/

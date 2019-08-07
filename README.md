@@ -30,8 +30,7 @@ Below are the platforms that encourage girls to grow more in tech.
 
 11. [Hackbright Academy](https://hackbrightacademy.com)
 
-12.Skillcrush
-https://skillcrush.com/
+12. [Skillcrush]9https://skillcrush.com/)
 
 13.23 Code Street
 https://www.23codestreet.com/

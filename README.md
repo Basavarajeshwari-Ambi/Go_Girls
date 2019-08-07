@@ -88,8 +88,7 @@ https://www.linuxchix.org/
 30.Lesbians Who Tech
 https://lesbianswhotech.org/sanfrancisco2019/
 
-31.Astia
-http://astia.org/
+31. [Astia](http://astia.org)
 
 
 

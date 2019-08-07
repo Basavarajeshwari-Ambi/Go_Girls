@@ -28,8 +28,7 @@ Below are the platforms that encourage girls to grow more in tech.
 
 10. [Ada Developers Academy](https://adadevelopersacademy.org)
 
-11.Hackbright Academy
-https://hackbrightacademy.com/
+11. [Hackbright Academy](https://hackbrightacademy.com)
 
 12.Skillcrush
 https://skillcrush.com/

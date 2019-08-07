@@ -24,11 +24,9 @@ Below are the platforms that encourage girls to grow more in tech.
 
 8. [Code First: Girls](https://www.codefirstgirls.org.uk)
 
-9.Code Like a Girl
-https://codelikeagirl.org/
+9. [Code Like a Girl](https://codelikeagirl.org)
 
-10.Ada Developers Academy
-https://adadevelopersacademy.org/
+10. [Ada Developers Academy](https://adadevelopersacademy.org)
 
 11.Hackbright Academy
 https://hackbrightacademy.com/

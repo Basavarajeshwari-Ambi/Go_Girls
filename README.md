@@ -42,6 +42,8 @@ Below are the platforms that encourage girls to grow more in tech.
 
 17. [Rails Girls](https://railsgirls.com)
 
+18.Shambu maharaj
+
 18. [RailsBridge](https://railsbridge.org)
 
 ###Platforms for Mothers 

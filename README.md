@@ -69,8 +69,8 @@ https://ladieslearningcode.com/program/girls-learning-code/
 
 27. [TechGirlztechgirlz.org](https://techgirlz.org)
 
-28.Tech Ladies
-https://new.hiretechladies.com/join/
+28.[Tech Ladies]
+(https://new.hiretechladies.com/join/)
 
 29.Linux Chix
 https://www.linuxchix.org/

@@ -46,8 +46,7 @@ Below are the platforms that encourage girls to grow more in tech.
 
 ###Platforms for Mothers 
 
-19.Moms Can: CODE
-https://https://www.momscancode.com/
+19.[Moms Can: CODE](https://https://www.momscancode.com/)
 
 20.MotherCoders
 http://www.mothercoders.org/

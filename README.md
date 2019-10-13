@@ -5,7 +5,7 @@ Intersectionality of women in tech means a lot. So there are various platforms t
 3. Moms
 4. Lesbians
 
-Opportunities for girls who are intersted in coding.
+# Opportunities for girls who are intersted in coding.
 Below are the platforms that encourage girls to grow more in tech.
 
 1. [Women Tech Makers](https://www.womentechmakers.com)

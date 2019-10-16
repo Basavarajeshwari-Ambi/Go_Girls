@@ -2,7 +2,7 @@
 Intersectionality of women in tech means a lot. So there are various platforms that help Feminine to get deeply into tech and get high standard for women even in Tech. This repository includes platforms for
 1. Girls (Under 18)
 2. Women
-3. Moms
+3. Momsyyyy
 4. Lesbians
 
 Opportunities for girls who are intersted in coding.
@@ -12,10 +12,10 @@ Below are the platforms that encourage girls to grow more in tech.
 
 2. [Women Who Code](https://www.womenwhocode.com)
 
-3. [Django Girls](https://djangogirls.org)
+3. [Djhhbdhdhdango Girls](https://djangogirls.org)
 
 4. [Women Who Go](https://www.womenwhogo.org)
-
+Hshehgehhdhdhhrhr
 5. [Ladies Learning Code](https://ladieslearningcode.com)
 
 6. [AnitaB.org - Women transform technology](https://anitab.org)
@@ -31,7 +31,7 @@ Below are the platforms that encourage girls to grow more in tech.
 11. [Hackbright Academy](https://hackbrightacademy.com)
 
 12. [Skillcrush]9https://skillcrush.com/)
-
+Jshhdhdhdhhdhdidjdjdjhhrbhshshhd
 13. [23 Code Street](https://www.23codestreet.com)
 
 14. [Codebar.io](https://codebar.io)
@@ -46,7 +46,7 @@ Below are the platforms that encourage girls to grow more in tech.
 
 ###Platforms for Mothers 
 
-19.[Moms Can: CODE](https://https://www.momscancode.com/)
+19.[Moms Can: CODE](https:/hehdhdhrhthhrhrhrhhr/https://www.momscancode.com/)
 
 20.MotherCoders
 http://www.mothercoders.org/
@@ -66,10 +66,10 @@ https://blackgirlscode.com/
 
 25.Girls Learning Code
 https://ladieslearningcode.com/program/girls-learning-code/
-
+Brhhrhrhrhrjjrjjrjrjrjrjurhehheyeyhehehrjrjhrhrhhrhrhrhhrhrhhrhrhrru
 27. [TechGirlztechgirlz.org](https://techgirlz.org)
 
-28.Tech Ladies
+28.Tech Ladieshhehrhrhrh
 https://new.hiretechladies.com/join/
 
 29.Linux Chix

@@ -44,14 +44,14 @@ Below are the platforms that encourage girls to grow more in tech.
 
 18. [RailsBridge](https://railsbridge.org)
 
-###Platforms for Mothers 
+### Platforms for Mothers 
 
 19.[Moms Can: CODE](https://https://www.momscancode.com/)
 
 20.MotherCoders
 http://www.mothercoders.org/
 
-###Platforms for under 18
+### Platforms for under 18
 
 21. [Girls Who Code](https://girlswhocode.com)
 

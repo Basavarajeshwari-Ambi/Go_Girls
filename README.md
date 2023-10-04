@@ -53,12 +53,11 @@ Below are the platforms that encourage girls to grow more in tech.
 ### Platforms for Mothers 
 
 1.[Moms Can: CODE](https://https://www.momscancode.com/)
-
 2.[MotherCoders](http://www.mothercoders.org/)
 
 ### Platforms for under 18
 
-1. [Girls Who Code](https://girlswhocode.com)
+1. [Girls Who Code](https://girlswhocode.com/)
 2. [Alexa Café](https://www.idtech.com/alexa-cafe/)
 3. [App Camp For Girls](https://appcamp4girls.com/)
 4. [Black Girls Code](https://blackgirlscode.com/)

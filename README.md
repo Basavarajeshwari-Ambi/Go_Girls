@@ -58,23 +58,15 @@ Below are the platforms that encourage girls to grow more in tech.
 
 ### Platforms for under 18
 
-1. [Girls Who Code](https://girlswhocode.com)
-
+1.[Girls Who Code](https://girlswhocode.com)
 2.[Alexa Café](https://www.idtech.com/alexa-cafe/)
-
 3.[App Camp For Girls](https://appcamp4girls.com/)
-
 4.[Black Girls Code](https://blackgirlscode.com/)
-
 5.[Girls Learning Code](https://ladieslearningcode.com/program/girls-learning-code/)
-
-7. [TechGirlztechgirlz.org](https://techgirlz.org)
-
-8. [Tech Ladies](https://new.hiretechladies.com/join/)
-
-9. [Lesbians Who Tech](https://lesbianswhotech.org/sanfrancisco2019/)
-
-10. [Astia](http://astia.org)
+6.[TechGirlztechgirlz.org](https://techgirlz.org)
+7.[Tech Ladies](https://new.hiretechladies.com/join/)
+8.[Lesbians Who Tech](https://lesbianswhotech.org/sanfrancisco2019/)
+9.[Astia](http://astia.org)
 
 
 

@@ -1,12 +1,21 @@
 # Go_Girls
-Intersectionality of women in tech means a lot. So there are various platforms that help Feminine to get deeply into tech and get high standard for women even in Tech. This repository includes platforms for
-1. Girls (Under 18)
+The intersectionality of women in tech means a lot. So there are various platforms that help Feminine to get deeply into tech and get high standard for women even in Tech. This repository includes platforms for
+1. Gender Inclusive
 2. Women
 3. Moms
-4. Lesbians
+4. Girls (Under 18)
 
-Opportunities for girls who are intersted in coding.
+Why focus on women in Tech?
+At 32%, the share of women working in tech is now lower than it was in 1984, when it was 35%. The percentage of women in tech leadership roles has fallen to 28% in 2023. 50% of women in tech roles leave them by the age of 35.
+
+Opportunities for women who are interested in coding.
 Below are the platforms that encourage girls to grow more in tech.
+
+### Gender Inclusive
+
+1. 
+
+### Women
 
 1. [Women Tech Makers](https://www.womentechmakers.com)
 
@@ -44,14 +53,14 @@ Below are the platforms that encourage girls to grow more in tech.
 
 18. [RailsBridge](https://railsbridge.org)
 
-###Platforms for Mothers 
+### Platforms for Mothers 
 
 19.[Moms Can: CODE](https://https://www.momscancode.com/)
 
 20.MotherCoders
 http://www.mothercoders.org/
 
-###Platforms for under 18
+### Platforms for under 18
 
 21. [Girls Who Code](https://girlswhocode.com)
 

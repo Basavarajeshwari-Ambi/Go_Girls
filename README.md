@@ -11,7 +11,7 @@ At 32%, the share of women working in tech is now lower than it was in 1984, whe
 Opportunities for women who are interested in coding.
 Below are the platforms that encourage girls to grow more in tech.
 
-### Gender Inclusive
+### For Anybody and Everybody
 
 1. [Github Campus Expert](https://education.github.com/experts)
 2. [Google Developers Group - GDG](https://developers.google.com/community/gdg)
